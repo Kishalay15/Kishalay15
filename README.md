@@ -3,6 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=1000&color=38F2A0&background=09131B&random=true&width=500&lines=Full+Stack+%7C+Java+%7C+Spring+Boot)](https://git.io/typing-svg)
 
+> # Portfolio
+
+[Visit My Portfolio](https://personal-portfolio-wheat-kappa.vercel.app/)
+
 > # Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white&labelColor=F6A8C1)](https://www.instagram.com/the_survived_dinosaur) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&style=for-the-badge&logoColor=white&labelColor=D0E2F2)](https://www.linkedin.com/in/kishalay-lahiri-5b1366265/) [![Twitter](https://img.shields.io/badge/Twitter-gray?logo=X&style=for-the-badge&logoColor=white&labelColor=black)](https://x.com/the_watcher1504) [![LeetCode](https://img.shields.io/badge/LeetCode-FB3C3C?logo=leetcode&style=for-the-badge&logoColor=white&labelColor=F9A8A6)](https://leetcode.com/u/Kishalay_Lahiri/)
