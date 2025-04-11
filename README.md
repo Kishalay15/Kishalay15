@@ -1,4 +1,4 @@
-  
+
 # Hi 👋, I'm Kishalay Lahiri
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=1000&color=38F2A0&background=09131B&random=true&width=500&lines=Full+Stack+%7C+Java+%7C+Spring+Boot)](https://git.io/typing-svg)
@@ -14,7 +14,7 @@
 
 <br />
 
-![](https://github-readme-stats.vercel.app/api?username=kishalay15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishalay15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Commits](https://github-readme-stats.vercel.app/api?username=kishalay15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=kishalay15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-contributor-stats.vercel.app/api?username=kishalay15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Git-Stats](https://github-contributor-stats.vercel.app/api?username=kishalay15&limit=5&theme=dark&combine_all_yearly_contributions=true)
