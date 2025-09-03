@@ -6,14 +6,16 @@
   
   <div align="center">
 
-<a href="https://personal-portfolio-wheat-kappa.vercel.app/">
+<a href="https://personal-portfolio-wheat-kappa.vercel.app/" style="text-decoration:none">
   <img src="https://img.icons8.com/fluency/48/domain.png" height="40" alt="Portfolio"/>  
 </a>
-<a href="mailto:kishalaylahiri@gmail.com">
+
+<a href="mailto:kishalaylahiri@gmail.com" style="text-decoration:none">
   <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40" alt="Email"/>
 </a>
 
 </div>
+
   
 </div>
 
