@@ -1,20 +1,132 @@
+# Hi there, I'm Kishalay Lahiri 👋
 
-# Hi 👋, I'm Kishalay Lahiri
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  
+  <p>🚀 Passionate Full Stack Developer from India | Building digital solutions with modern technologies</p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://personal-portfolio-wheat-kappa.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishalaylahiri@gmail.com)
+  
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=4000&pause=1000&color=38F2A0&background=09131B&random=true&width=500&lines=Full+Stack+%7C+Java+%7C+Spring+Boot)](https://git.io/typing-svg)
+---
 
-> # Socials
+## 🎯 About Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Firefox&logoColor=white&labelColor=4A4A4A)](https://personal-portfolio-wheat-kappa.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white&labelColor=F6A8C1)](https://www.instagram.com/the_survived_dinosaur) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&style=for-the-badge&logoColor=white&labelColor=D0E2F2)](https://www.linkedin.com/in/kishalay-lahiri-5b1366265/) [![Twitter](https://img.shields.io/badge/Twitter-gray?logo=X&style=for-the-badge&logoColor=white&labelColor=black)](https://x.com/the_watcher1504) [![LeetCode](https://img.shields.io/badge/LeetCode-FB3C3C?logo=leetcode&style=for-the-badge&logoColor=white&labelColor=F9A8A6)](https://leetcode.com/u/Kishalay_Lahiri/)
+```typescript
+const kishalay = {
+  location: "India 🇮🇳",
+  currentFocus: "Learning PostgreSQL & Advanced Backend Architecture",
+  interests: ["Full Stack Development", "System Design", "Open Source"],
+  funFact: "I debug with console.log and I'm not ashamed of it! 😄"
+};
+```
 
-> # Languages and Tools:
+- 🔭 **Currently Exploring:** Advanced PostgreSQL concepts and database optimization
+- 🌱 **Learning Journey:** Always expanding my tech stack with cutting-edge technologies
+- 💼 **Open to:** Collaboration on innovative projects and open-source contributions
+- 🎯 **Goal:** Building scalable applications that make a difference
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?logo=springboot&style=for-the-badge&logoColor=white&labelColor=72B84C) ![C](https://img.shields.io/badge/C-00599C?logo=c&style=for-the-badge&logoColor=white&labelColor=A1C6D8) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=black&labelColor=D8E8F3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black&labelColor=FFF4B2) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&style=for-the-badge&logoColor=white&labelColor=F8B6B0) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge&logoColor=white&labelColor=B3D7F7) ![Python](https://img.shields.io/badge/Python-306998?logo=python&style=for-the-badge&logoColor=white&labelColor=A6D8D4)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&style=for-the-badge&logoColor=white&labelColor=A0E0D4) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white&labelColor=ABC8D9) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=for-the-badge&logoColor=white&labelColor=FFD0C1) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&style=for-the-badge&logoColor=white&labelColor=D1A8E6) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white&labelColor=F9C9C1) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&style=for-the-badge&logoColor=white&labelColor=F1B04C) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=black&labelColor=FFF4B2) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&style=for-the-badge&logoColor=white&labelColor=A8D8C2) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-007ACC?logo=vsc&style=for-the-badge&logoColor=white&labelColor=B8D9FF) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&style=for-the-badge&logoColor=white&labelColor=D6D8FF) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&style=for-the-badge&logoColor=white&labelColor=88A5B8) ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C?logo=matplotlib&style=for-the-badge&logoColor=white&labelColor=A6C9D8) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=4A90E2)](https://www.typescriptlang.org/) ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white&labelColor=68A063)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=6EB35A)
+---
 
-<br />
+## 🌐 Let's Connect
 
-![Commits](https://github-readme-stats.vercel.app/api?username=kishalay15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=kishalay15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishalay-lahiri-5b1366265)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_watcher1504)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_survived_dinosaur)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/kishalay_lahiri)
+  
+</div>
 
-![Git-Stats](https://github-contributor-stats.vercel.app/api?username=kishalay15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+### **Languages & Frameworks**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+
+### **Databases & Cloud**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/>
+
+### **Tools & Others**
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=Kishalay15&theme=radical&no-frame=false&no-bg=false&margin-w=15&row=1&column=3&title=Commits,Repositories,Experience)
+  
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kishalay15&show_icons=true&locale=en&theme=radical" alt="Kishalay15" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishalay15&layout=compact&langs_count=8&theme=radical"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kishalay15&theme=radical)
+  
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/Kishalay15/Kishalay15/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
+
+<!-- ## 💡 Featured Projects
+
+<div align="center">
+  
+  [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Kishalay15&repo=personal-portfolio&theme=radical)](https://personal-portfolio-wheat-kappa.vercel.app/)
+  
+</div>
+
+--- -->
+
+## 📫 Get In Touch
+
+<div align="center">
+  
+  **"Let's build something amazing together!"** 
+  
+  Feel free to reach out for collaborations, opportunities, or just a friendly tech chat.
+  
+  📧 **Email:** kishalaylahiri@gmail.com
+  
+  🔗 **Portfolio:** [View My Work](https://personal-portfolio-wheat-kappa.vercel.app/)
+  
+</div>
