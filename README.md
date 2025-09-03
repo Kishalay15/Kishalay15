@@ -2,12 +2,18 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF0050&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
   
-  <p>🚀 Passionate Full Stack Developer from India | Building digital solutions with modern technologies</p>
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://personal-portfolio-wheat-kappa.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishalaylahiri@gmail.com)
+  <div align="center">
+
+<a href="https://personal-portfolio-wheat-kappa.vercel.app/">
+  <img src="https://img.icons8.com/fluency/48/domain.png" height="40" alt="Portfolio"/>  
+</a>
+<a href="mailto:kishalaylahiri@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40" alt="Email"/>
+</a>
+
+</div>
   
 </div>
 
